@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1425139060 source:/home/abhishek/cpp/pang/main.cpp
+	<SFML/Graphics.hpp>
+	<game.hpp>
+	<iostream>
+	<stdlib.h>
+
+1425138865 /home/abhishek/cpp/pang//game.hpp
+
